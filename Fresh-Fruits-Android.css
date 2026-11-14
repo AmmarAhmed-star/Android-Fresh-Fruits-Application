@@ -1,0 +1,9 @@
+/* Android Fresh Fruits Application */
+body{margin:0;background:#ecfdf5;font-family:sans-serif}
+.app-shell{max-width:400px;margin:20px auto;background:#fff;border-radius:30px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,.15);border:8px solid #111}
+.app-header{background:#22c55e;color:#fff;padding:20px;text-align:center}
+.app-header h2{margin:0}
+.product-list{padding:15px}
+.fruit-card{display:flex;align-items:center;justify-content:space-between;background:#f0fdf4;padding:12px;border-radius:14px;margin:10px 0}
+.fruit-card img{width:60px;height:60px;border-radius:12px;object-fit:cover}
+.add{background:#111;color:#fff;border:none;padding:8px 14px;border-radius:20px;cursor:pointer}
